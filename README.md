@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanul93)](https://hits.seeyoufarm.com)
 
-Anti-Virus Developer & Malware Research Engineer
+Anti-Virus Developer & Malware Researcher
 
 * CEO of [Nurilab](https://nurilab.com) (2015.03 ~ Now)
 * CISO of [Inca Internet](http://inca.co.kr) (2011.11 ~ 2014.03)
