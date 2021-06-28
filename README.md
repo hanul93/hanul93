@@ -140,12 +140,12 @@
 
 ### 기고
 
-- 2020.06.15 : 누리랩, 안드로이드 실행 파일 포맷 - dex (3)
-- 2020.06.08 : 누리랩, 안드로이드 실행 파일 포맷 - dex (2)
-- 2020.05.12 : 누리랩, 안드로이드 실행 파일 포맷 - dex (1)
-- 2020.04.27 : 누리랩, 꼬리야.. 날 살려라 (HTML footer 강제 위치 변경)
-- 2020.04.19 : 누리랩, 우리도 스웩 (Swagger를 이용한 REST API 설계 및 검증)
-- 2020.04.04 : 누리랩, 디스크 이미지 파일 포맷 - ISO
+- 2020.06.15 : [누리랩, 안드로이드 실행 파일 포맷 - dex (3)](https://nurilab.github.io/2020/06/15/fileformat_dex_3/)
+- 2020.06.08 : [누리랩, 안드로이드 실행 파일 포맷 - dex (2)](https://nurilab.github.io/2020/06/08/fileformat_dex_2/)
+- 2020.05.12 : [누리랩, 안드로이드 실행 파일 포맷 - dex (1)](https://nurilab.github.io/2020/05/12/fileformat_dex_1/)
+- 2020.04.27 : [누리랩, 꼬리야.. 날 살려라 (HTML footer 강제 위치 변경)](https://nurilab.github.io/2020/04/27/follow_me_footer/)
+- 2020.04.19 : [누리랩, 우리도 스웩 (Swagger를 이용한 REST API 설계 및 검증)](https://nurilab.github.io/2020/04/19/we_do_swagger/)
+- 2020.04.04 : [누리랩, 디스크 이미지 파일 포맷 - ISO](https://nurilab.github.io/2020/04/04/fileformat_iso/)
 - 2017.10.16 : [마이크로소프트웨어, 오픈소스 백신이 가지는 의미](http://biz.chosun.com/site/data/html_dir/2017/10/16/2017101600688.html)
 - 2008.05.02 : [하우리, 옥션 사건으로 바라본 우리의 현실](https://www.hauri.co.kr/security/issue_view.html?intSeq=76&article_num=76)
 - 2007.09.04 : [하우리, SOX !! 그들이 온다.](https://www.hauri.co.kr/security/issue_view.html?intSeq=70&article_num=70)
