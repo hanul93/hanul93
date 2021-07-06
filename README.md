@@ -173,6 +173,7 @@
 
 ### 발표
 
+- 2021.07.06 : [2021 CodeEngn Conference 17, 샌드박스 시대의 종결: AI 에뮬레이터 시대의 도래](https://www.youtube.com/watch?v=FEU8BDNhRWA)
 - 2021.04.16 : [PLUS2021 정보보안 컨퍼런스,  CDR (Content Disarm and Reconstruction)? 그게 뭐여?](http://www.securityplus.or.kr/plus2021)
 - 2021.03.09 : [K-CTI 사이버위협 인텔리전스 컨퍼런스, 빅데이터 플랫폼을 이용한 악성코드 분석](https://www.dailysecu.com/form/register.html?form_id=1607408344#a2)
 - 2020.09.14 : [GCCD 사이버보안 초청세미나, Malware detection using Big data](https://www.camp-gccd2020.com/gccd/program/seminar.php)
