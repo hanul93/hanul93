@@ -174,7 +174,7 @@
 
 ### 발표
 
-- 2021.12.14 : 2021 정보보호 쇼케이스, [빅데이터 기반 사이버 위협 대응 및 분석 플랫폼](kisa.or.kr/notice/notice_View.jsp?mode=view&p_No=4&b_No=4&d_No=2876)
+- 2021.12.14 : 2021 정보보호 쇼케이스, [빅데이터 기반 사이버 위협 대응 및 분석 플랫폼 (MINOSS 2.0)](kisa.or.kr/notice/notice_View.jsp?mode=view&p_No=4&b_No=4&d_No=2876)
 - 2021.11.11 : 대구·경북 사이버보안 컨퍼런스(DGSEC) 2021, [랜섬웨어 동향과 대응](https://dgsec.ync.ac.kr/program/program.html)
 - 2021.11.10 : DevFest 2021, 보안과 함께 하는 개발, [안전하고 빠른 코드를 얻기 위한 우리의 몸부림](https://www.youtube.com/watch?v=98P1jryxUr8)
 - 2021.11.05 : 중부정보보호지원센터, [AI·빅데이터 기반의 악성코드 탐지 및 차단](https://onoffmix.com/event/247029)
