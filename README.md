@@ -26,6 +26,7 @@
 
 ### 이력
 
+- 2022.04 - 현    재 : [경찰청 사이버안보 해킹조직 연구회 전문위원](https://www.facebook.com/hanul93/posts/pfbid02jDcof6XpeoEjUUaWnqG4e9wyr9PSbzskJP7SBX8foauVwyiTEUJz7v2TYyb7yroKl)
 - 2021.09 - 현    재 : 경희사이버대학교 IT·디자인융합학부 AI사이버보안전공 겸임교수
 - 2021.03 - 현    재 : [사이버작전사령부 자문위원](https://www.etnews.com/20210302000207)
 - 2021.03 - 현    재 : 고려대학교 인공지능사이버보안학과 겸임교수
@@ -70,6 +71,10 @@
 
 ### 언론
 
+- 2022.06.22 : [데일리시큐, 누리랩-케이디디아이코리아, ‘사이버 위협 인텔리전스 서비스’ 사업 MOU 체결](https://www.dailysecu.com/news/articleView.html?idxno=137667)
+- 2022.03.17 : [MBN, "나도 모르는사이에"…'실시간'으로 중계되는 사생활](https://www.mbn.co.kr/news/society/4720077)
+- 2021.08.10 : [전자신문, 리얼시큐-누리랩과 스피어피싱 차단 기술 협력](https://www.etnews.com/20210810000078)
+- 2021.07.02 : [충남일보, 한국장애인IT협회-누리랩, IT 전문인력 육성 및 취업 교육 협약](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=610899)
 - 2021.03.11 : [데일리시큐, 시야인사이트-누리랩, 기술 협력 및 교육 시스템 공동개발 위한 MOU 체결](https://www.dailysecu.com/news/articleView.html?idxno=121820)
 - 2021.03.02 : [전자신문, 사이버작전사령부, 류재철 교수 등 제5기 자문위원 12명 위촉](https://www.etnews.com/20210302000207)
 - 2021.03.02 : [데일리시큐, [인터뷰] 박정호 누리랩 대표 “데이터 보안 중추기업으로…경쟁 보다는 협업”](https://www.dailysecu.com/news/articleView.html?idxno=121294)
