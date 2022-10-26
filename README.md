@@ -71,6 +71,7 @@
 
 ### 언론
 
+- 2022.10.25 : [데일리시큐, 사이버위협 대응 인공지능 정보보호 컨퍼런스 ‘AIS 2022’...11월 15일 개최](https://www.dailysecu.com/news/articleView.html?idxno=140674)
 - 2022.06.22 : [데일리시큐, 누리랩-케이디디아이코리아, ‘사이버 위협 인텔리전스 서비스’ 사업 MOU 체결](https://www.dailysecu.com/news/articleView.html?idxno=137667)
 - 2022.03.17 : [MBN, "나도 모르는사이에"…'실시간'으로 중계되는 사생활](https://www.mbn.co.kr/news/society/4720077)
 - 2021.08.10 : [전자신문, 리얼시큐-누리랩과 스피어피싱 차단 기술 협력](https://www.etnews.com/20210810000078)
