@@ -71,6 +71,8 @@
 
 ### 언론
 
+- 2022.11.21 : [머니투데이, 비대면 진료·교육 등 보안강화 시범사업, 24일 성과 공유회](https://news.mt.co.kr/mtview.php?no=2022112110051966250)
+- 2022.11.17 : [데일리시큐, [AIS 2022] 사이버위협 대응 인공지능 정보보호 컨퍼런스](https://www.dailysecu.com/news/articleView.html?idxno=141353)
 - 2022.10.25 : [데일리시큐, 사이버위협 대응 인공지능 정보보호 컨퍼런스 ‘AIS 2022’...11월 15일 개최](https://www.dailysecu.com/news/articleView.html?idxno=140674)
 - 2022.06.22 : [데일리시큐, 누리랩-케이디디아이코리아, ‘사이버 위협 인텔리전스 서비스’ 사업 MOU 체결](https://www.dailysecu.com/news/articleView.html?idxno=137667)
 - 2022.03.17 : [MBN, "나도 모르는사이에"…'실시간'으로 중계되는 사생활](https://www.mbn.co.kr/news/society/4720077)
@@ -180,6 +182,8 @@
 
 ### 발표
 
+- 2022.11.24 : 과학기술정보통신부, [보안성이 강화된 메타버스 커머스 플랫폼](https://www.untact-secu.co.kr/?fbclid=IwAR3ZL67kagtibe0YQRd91Y-bcDaVi76ok9L-a7W7yBoonQvXKVzIPDbCDlg)
+- 2022.11.14 : AIS 2022 인공지능 정보보호 컨퍼런스, [AI 기술을 이용한 악성코드 탐지 및 방어](https://www.dailysecu.com/form/register.html?form_id=1639447714)
 - 2022.10.12 : 중부정보보호지원센터, 메타버스 유통.결제 플랫폼에서의 보안
 - 2022.09.16 : 2022 강원 정보보호 세미나, AI 기술을 이용한 악성코드 탐지 및 방어
 - 2022.08.31 : 중부정보보호지원센터, 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
