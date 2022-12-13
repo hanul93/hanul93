@@ -71,6 +71,7 @@
 
 ### 언론
 
+- 2022.12.12 : [보안뉴스, 북한 IT 엔지니어, 구인구직 사이트 통해 ‘외화벌이’](https://www.boannews.com/media/view.asp?idx=112471)
 - 2022.11.21 : [머니투데이, 비대면 진료·교육 등 보안강화 시범사업, 24일 성과 공유회](https://news.mt.co.kr/mtview.php?no=2022112110051966250)
 - 2022.11.17 : [데일리시큐, [AIS 2022] 사이버위협 대응 인공지능 정보보호 컨퍼런스](https://www.dailysecu.com/news/articleView.html?idxno=141353)
 - 2022.10.25 : [데일리시큐, 사이버위협 대응 인공지능 정보보호 컨퍼런스 ‘AIS 2022’...11월 15일 개최](https://www.dailysecu.com/news/articleView.html?idxno=140674)
