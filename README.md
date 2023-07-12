@@ -71,6 +71,7 @@
 
 ### 언론
 
+- 2023.06.01 : [에너지경제, 누리랩, ‘Ask-URL’ 무료 서비스 출시](https://www.ekn.kr/web/view.php?key=20230601001526499)
 - 2022.12.13 : [데일리시큐, 누리랩-시야인사이트, 중소기업용 AI 기반 클라우드형 XDR 플랫폼 개발...내년 본격 시장 확대](https://www.dailysecu.com/news/articleView.html?idxno=141972)
 - 2022.12.12 : [보안뉴스, 북한 IT 엔지니어, 구인구직 사이트 통해 ‘외화벌이’](https://www.boannews.com/media/view.asp?idx=112471)
 - 2022.11.21 : [머니투데이, 비대면 진료·교육 등 보안강화 시범사업, 24일 성과 공유회](https://news.mt.co.kr/mtview.php?no=2022112110051966250)
