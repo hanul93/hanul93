@@ -188,7 +188,10 @@
 
 ### 발표
 
-- 2023.09.14: GSS(Global Security Symposium) 2023, [생성형 AI를 활용한 URL 판단](https://sek.co.kr/2023/GSS2023)
+- 2923.11.07 : 이화여자대학교, 2023 Luck Key Seminar, [AI 기반의 악성 URL 탐지 기술](https://security.ewha.ac.kr/security/student/notice.do?mode=view&articleNo=699171&title=2023+Luck+Key+Seminar+%EC%8B%A0%EC%B2%AD+%EC%95%88%EB%82%B4)
+- 2023.10.19 : 한국폴리텍대학 서울정수캠퍼스, AI 기반의 악성 URL 탐지 기술
+- 2023.09.15 : 한국정보보호교육센터, 월간 KISEC 9월, [AI를 이용한 악성 URL 탐지 방법 및 기대효과](https://www.facebook.com/photo/?fbid=731957368942816&set=pcb.731957878942765&locale=ko_KR)
+- 2023.09.14 : GSS(Global Security Symposium) 2023, [생성형 AI를 활용한 URL 판단](https://sek.co.kr/2023/GSS2023)
 - 2022.11.24 : 과학기술정보통신부, [보안성이 강화된 메타버스 커머스 플랫폼](https://www.untact-secu.co.kr/?fbclid=IwAR3ZL67kagtibe0YQRd91Y-bcDaVi76ok9L-a7W7yBoonQvXKVzIPDbCDlg)[(동영상)](https://youtu.be/JZvTI5KoG3M?t=1h15m44s)
 - 2022.11.14 : AIS 2022 인공지능 정보보호 컨퍼런스, [AI 기술을 이용한 악성코드 탐지 및 방어](https://www.dailysecu.com/form/register.html?form_id=1639447714)
 - 2022.10.12 : 중부정보보호지원센터, 메타버스 유통.결제 플랫폼에서의 보안
