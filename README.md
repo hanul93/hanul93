@@ -71,6 +71,9 @@
 
 ### 언론
 
+- 2023.11.01 : [데일리시큐, 인공지능 사이버위협과 보안기술 한자리에…11월 2일 개최](https://www.dailysecu.com/news/articleView.html?idxno=150809)
+- 2023.10.18 : [인천일보, 스마트 제조혁신 탄력…인천 신 디지털 제조혁신협의체 발족 추진](https://www.incheonilbo.com/news/articleView.html?idxno=1216148)
+- 2023.09.26 : [전자신문, 누리랩, 택배·지인 사칭한 '피싱·스미싱 URL' 자동 탐지 차단 서비스 등장](https://www.etnews.com/20230926000053)
 - 2023.06.01 : [에너지경제, 누리랩, ‘Ask-URL’ 무료 서비스 출시](https://www.ekn.kr/web/view.php?key=20230601001526499)
 - 2022.12.13 : [데일리시큐, 누리랩-시야인사이트, 중소기업용 AI 기반 클라우드형 XDR 플랫폼 개발...내년 본격 시장 확대](https://www.dailysecu.com/news/articleView.html?idxno=141972)
 - 2022.12.12 : [보안뉴스, 북한 IT 엔지니어, 구인구직 사이트 통해 ‘외화벌이’](https://www.boannews.com/media/view.asp?idx=112471)
