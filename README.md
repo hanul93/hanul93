@@ -190,6 +190,7 @@
 ### 발표
 
 - 2923.11.07 : 이화여자대학교, 2023 Luck Key Seminar, [AI 기반의 악성 URL 탐지 기술](https://security.ewha.ac.kr/security/student/notice.do?mode=view&articleNo=699171&title=2023+Luck+Key+Seminar+%EC%8B%A0%EC%B2%AD+%EC%95%88%EB%82%B4)
+- 2022.11.02 : AIS 2023 인공지능 정보보호 컨퍼런스, [빅데이터 기반의 AI 기술을 이용한 악성URL/APK 탐지 및 분석 기술 (동영상)](https://www.youtube.com/watch?v=QSgXKPzxuJM)
 - 2023.10.19 : 한국폴리텍대학 서울정수캠퍼스, AI 기반의 악성 URL 탐지 기술
 - 2023.09.15 : 한국정보보호교육센터, 월간 KISEC 9월, [AI를 이용한 악성 URL 탐지 방법 및 기대효과](https://www.facebook.com/photo/?fbid=731957368942816&set=pcb.731957878942765&locale=ko_KR)
 - 2023.09.14 : GSS(Global Security Symposium) 2023, [생성형 AI를 활용한 URL 판단](https://sek.co.kr/2023/GSS2023)
