@@ -71,6 +71,9 @@
 
 ### 언론
 
+- 2023.12.18 : [보안뉴스, [이슈 인터뷰] 누리랩 최원혁 대표 “스미싱 차단 고민하다 AI 실시간 분석기술 접목”](https://www.boannews.com/media/view.asp?idx=124879)
+- 2023.12.15 : [보안뉴스, 누리랩, 한국지식경영학회 ‘지식경영혁신대상’ 수상](https://www.boannews.com/media/view.asp?idx=124848)
+- 2023.12.13 : [보안뉴스, 신종 스미싱 등장, “아버님이 별세하셨어요, 장례식장은 링크 눌러주세요”](https://www.boannews.com/media/view.asp?idx=124744)
 - 2023.11.01 : [데일리시큐, 인공지능 사이버위협과 보안기술 한자리에…11월 2일 개최](https://www.dailysecu.com/news/articleView.html?idxno=150809)
 - 2023.10.18 : [인천일보, 스마트 제조혁신 탄력…인천 신 디지털 제조혁신협의체 발족 추진](https://www.incheonilbo.com/news/articleView.html?idxno=1216148)
 - 2023.09.26 : [전자신문, 누리랩, 택배·지인 사칭한 '피싱·스미싱 URL' 자동 탐지 차단 서비스 등장](https://www.etnews.com/20230926000053)
