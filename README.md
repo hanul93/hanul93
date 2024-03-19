@@ -73,6 +73,7 @@
 
 ### 언론
 
+- 2024.03.09 : [보안뉴스, 온라인도 가짜, 오프라인도 가짜... 악성 QR코드 주의보!](https://www.boannews.com/media/view.asp?idx=127564)
 - 2024.02.07 : [KBS 뉴스9, “끌려왔어”·부고 문자…교묘해져도 잡는다! (동영상)](https://news.kbs.co.kr/news/pc/view/view.do?ncd=7885796&ref=A)
 - 2024.01.24 : [보안뉴스, [긴급] 개인정보 유출된 국립항공박물관, 별세 소식 사칭 스미싱 나돌아](https://www.boannews.com/media/view.asp?idx=126036)
 - 2023.12.28 : [보안뉴스, “아이폰 연결이 해킹되어 해커가 훔쳐보고 있어요” 스미싱 주의보](https://www.boannews.com/media/view.asp?idx=125286)
