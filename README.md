@@ -73,6 +73,7 @@
 
 ### 언론
 
+- 2024.04.19 : [보안뉴스, 집 앞에 우편물 도착안내서가? 신종 보이스피싱 ‘레터피싱’ 주의보](https://www.boannews.com/media/view.asp?idx=129044)
 - 2024.04.11 : [보안뉴스, 한국형 전투기 KF-21 자료 유출하려다 걸린 인도네시아인 소식에 발끈한 해커, 국내 사이트 보복 해킹](https://www.boannews.com/media/view.asp?idx=128741)
 - 2024.03.09 : [보안뉴스, 온라인도 가짜, 오프라인도 가짜... 악성 QR코드 주의보!](https://www.boannews.com/media/view.asp?idx=127564)
 - 2024.02.07 : [KBS 뉴스9, “끌려왔어”·부고 문자…교묘해져도 잡는다! (동영상)](https://news.kbs.co.kr/news/pc/view/view.do?ncd=7885796&ref=A)
