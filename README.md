@@ -73,6 +73,8 @@
 
 ### 언론
 
+- 2024.05.11 : [데일리시큐, [RSAC 2024] “보안, 협업과 연동·정보공유 없이 글로벌 경쟁력을?”](https://www.dailysecu.com/news/articleView.html?idxno=155877)
+- 2024.05.02 : [데일리시큐, [긴급 주의] 해킹 당한 국내 대학·기관 사이트 다수 발견, 접속시 불법 성인·도박 사이트로...2차 피해 우려](https://www.dailysecu.com/news/articleView.html?idxno=155639)
 - 2024.04.19 : [보안뉴스, 집 앞에 우편물 도착안내서가? 신종 보이스피싱 ‘레터피싱’ 주의보](https://www.boannews.com/media/view.asp?idx=129044)
 - 2024.04.11 : [보안뉴스, 한국형 전투기 KF-21 자료 유출하려다 걸린 인도네시아인 소식에 발끈한 해커, 국내 사이트 보복 해킹](https://www.boannews.com/media/view.asp?idx=128741)
 - 2024.03.09 : [보안뉴스, 온라인도 가짜, 오프라인도 가짜... 악성 QR코드 주의보!](https://www.boannews.com/media/view.asp?idx=127564)
