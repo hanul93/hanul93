@@ -29,8 +29,8 @@
 - 2022.04 - 현    재 : [경찰청 사이버안보 해킹조직 연구회 전문위원](https://www.facebook.com/hanul93/posts/pfbid02jDcof6XpeoEjUUaWnqG4e9wyr9PSbzskJP7SBX8foauVwyiTEUJz7v2TYyb7yroKl)
 - 2021.09 - 현    재 : 경희사이버대학교 IT·디자인융합학부 AI사이버보안전공 겸임교수
 - 2021.03 - 현    재 : [사이버작전사령부 자문위원](https://www.etnews.com/20210302000207)
-- 2021.03 - 2023.08 : 고려대학교 인공지능사이버보안학과 겸임교수
 - 2020.09 - 현    재 : 이화여자대학교 엘텍공과대학 소프트웨어학부 사이버보안전공 겸임교수
+- 2021.03 - 2023.08 : 고려대학교 인공지능사이버보안학과 겸임교수
 - 2019.09 - 2020.08 : 국민대학교 산학협력 멘토위원
 - 2016.09 - 2017.08 : 김포대학교 사이버보안과 외래교수
 - 2014.03 - 2016.02 : 사이버보안전문단 (미래창조과학부 임명) 
@@ -73,6 +73,7 @@
 
 ### 언론
 
+- 2024.05.29 : [보안뉴스, [긴급] 개인정보보호위원회 사칭 보이스피싱 주의보!](https://www.boannews.com/media/view.asp?idx=130191)
 - 2024.05.28 : [데일리시큐, 블루데이타시스템즈-KISA, 사이버 침해사고 정보공유 세미나 개최](https://www.dailysecu.com/news/articleView.html?idxno=156290)
 - 2024.05.11 : [데일리시큐, [RSAC 2024] “보안, 협업과 연동·정보공유 없이 글로벌 경쟁력을?”](https://www.dailysecu.com/news/articleView.html?idxno=155877)
 - 2024.05.02 : [데일리시큐, [긴급 주의] 해킹 당한 국내 대학·기관 사이트 다수 발견, 접속시 불법 성인·도박 사이트로...2차 피해 우려](https://www.dailysecu.com/news/articleView.html?idxno=155639)
@@ -203,7 +204,9 @@
 
 ### 발표
 
-- 2923.11.07 : 이화여자대학교, 2023 Luck Key Seminar, [AI 기반의 악성 URL 탐지 기술](https://security.ewha.ac.kr/security/student/notice.do?mode=view&articleNo=699171&title=2023+Luck+Key+Seminar+%EC%8B%A0%EC%B2%AD+%EC%95%88%EB%82%B4)
+- 2024.07.04 : 한국정보처리학(KIPS), 2024년도 IT21 글로벌 컨퍼런스, [sLLM 관련 사이버 보안 특화 모델 개발](https://it21.kips.or.kr/program)
+- 2024.06.10 : 한국인터넷진흥원(KISA), 2024 침해사고 정보 공유 세미나, [AI 기반의 악성 URL 탐지 방법 및 기술](https://www.dailysecu.com/news/articleView.html?idxno=156290)
+- 2023.11.07 : 이화여자대학교, 2023 Luck Key Seminar, [AI 기반의 악성 URL 탐지 기술](https://security.ewha.ac.kr/security/student/notice.do?mode=view&articleNo=699171&title=2023+Luck+Key+Seminar+%EC%8B%A0%EC%B2%AD+%EC%95%88%EB%82%B4)
 - 2022.11.02 : AIS 2023 인공지능 정보보호 컨퍼런스, [빅데이터 기반의 AI 기술을 이용한 악성URL/APK 탐지 및 분석 기술 (동영상)](https://www.youtube.com/watch?v=QSgXKPzxuJM)
 - 2023.10.19 : 한국폴리텍대학 서울정수캠퍼스, AI 기반의 악성 URL 탐지 기술
 - 2023.09.15 : 한국정보보호교육센터, 월간 KISEC 9월, [AI를 이용한 악성 URL 탐지 방법 및 기대효과](https://www.facebook.com/photo/?fbid=731957368942816&set=pcb.731957878942765&locale=ko_KR)
