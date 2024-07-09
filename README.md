@@ -73,6 +73,7 @@
 
 ### 언론
 
+- 2024.07.09 : [전자신, [人사이트]최원혁 누리랩 대표 “글로벌 모바일 악성코드 컨설팅 플랫폼 기업으로 도약할 것”](https://www.etnews.com/20240709000250)
 - 2024.07.05 : [보안뉴스, 주니퍼 네트웍스의 세션 스마트 라우터에서 인증 우회 취약점 발견!](https://www.boannews.com/media/view.asp?idx=131129)
 - 2024.06.28 : [보안뉴스, 누리랩, ‘오프섹 사이버 공격 훈련 대회’ 개최](https://www.boannews.com/media/view.asp?idx=130958)
 - 2024.06.21 : [데일리시큐, 누리랩, 일본 피싱 대책 협의회 정회원으로 신규 가입](https://www.dailysecu.com/news/articleView.html?idxno=157045)
