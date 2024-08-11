@@ -73,7 +73,10 @@
 
 ### 언론
 
-- 2024.07.09 : [전자신, [人사이트]최원혁 누리랩 대표 “글로벌 모바일 악성코드 컨설팅 플랫폼 기업으로 도약할 것”](https://www.etnews.com/20240709000250)
+- 2024.08.09 : [보안뉴스, 북한, 김수키·안다리엘 등 해커조직 총동원... 방산 기술정보 해킹 나섰다](https://www.boannews.com/media/view.asp?idx=131946)
+- 2024.07.18 : [보안뉴스, 누리랩, 글로벌 사이버 보안 협력체 APWG 가입](https://www.boannews.com/media/view.asp?idx=131441)
+- 2024.07.11 : [데일리시큐, 누리랩, 서울여자대학교-누리랩, 개인정보보호 혁신 인재 양성 위한 MOU 체결](https://www.dailysecu.com/news/articleView.html?idxno=157638)
+- 2024.07.09 : [전자신문, [人사이트]최원혁 누리랩 대표 “글로벌 모바일 악성코드 컨설팅 플랫폼 기업으로 도약할 것”](https://www.etnews.com/20240709000250)
 - 2024.07.05 : [보안뉴스, 주니퍼 네트웍스의 세션 스마트 라우터에서 인증 우회 취약점 발견!](https://www.boannews.com/media/view.asp?idx=131129)
 - 2024.06.28 : [보안뉴스, 누리랩, ‘오프섹 사이버 공격 훈련 대회’ 개최](https://www.boannews.com/media/view.asp?idx=130958)
 - 2024.06.21 : [데일리시큐, 누리랩, 일본 피싱 대책 협의회 정회원으로 신규 가입](https://www.dailysecu.com/news/articleView.html?idxno=157045)
