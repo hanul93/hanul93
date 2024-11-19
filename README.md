@@ -75,6 +75,7 @@
 
 - 2024.11.18 : [보안뉴스, 지코스모, 카시오 시스템 전산 장애로 일부 업무 중단](https://www.boannews.com/media/view.asp?idx=134409)
 - 2024.11.17 : [데일리시큐, [AIS 2024 영상] 최원혁 누리랩 대표 “YaraHub, 악성코드 탐지와 보안 분석 핵심 플랫폼”](https://www.dailysecu.com/news/articleView.html?idxno=161226)
+- 2024.11.14 : [SBS 8시 뉴스, 누군가 내 사생활 엿본다?…보안 강화해도 구멍은 여전](https://news.sbs.co.kr/news/endPage.do?news_id=N1007873886)
 - 2024.10.29 : [데일리시큐, [AIS 2024] 인공지능 보안 컨퍼런스 11월 5일 개최…주요 강연 주제 공개](https://www.dailysecu.com/news/articleView.html?idxno=160635)
 - 2024.09.29 : [보안뉴스, 대한결핵협회 사이버연수원, 개발 서버에서 개인정보 유출](https://www.boannews.com/media/view.asp?idx=133219)
 - 2024.09.14 : [보안뉴스, [단독] 이커머스 시장 중개 플랫폼 팝인보더, 11만 3천여 건 개인정보 유출](https://www.boannews.com/media/view.asp?idx=132945)
