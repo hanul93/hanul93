@@ -73,6 +73,8 @@
 
 ### 언론
 
+- 2024.11.26 : [SBS 모닝와이드 3부 <날>, 설마 우리집도? 사생활 훔쳐보는 IP카메라 (동영상)](https://programs.sbs.co.kr/culture/morningwide/vod/65007/22000550572)
+- 2024.11.23 : [채널A 뉴스, [사건현장 360]집안·강의실 웹캠도…해킹해 생중계 (동영상)](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000446536)
 - 2024.11.18 : [보안뉴스, 지코스모, 카시오 시스템 전산 장애로 일부 업무 중단](https://www.boannews.com/media/view.asp?idx=134409)
 - 2024.11.17 : [데일리시큐, [AIS 2024 영상] 최원혁 누리랩 대표 “YaraHub, 악성코드 탐지와 보안 분석 핵심 플랫폼” (동영상)](https://www.dailysecu.com/news/articleView.html?idxno=161226)
 - 2024.11.14 : [SBS 8시 뉴스, 누군가 내 사생활 엿본다?…보안 강화해도 구멍은 여전 (동영상)](https://news.sbs.co.kr/news/endPage.do?news_id=N1007873886)
