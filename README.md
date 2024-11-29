@@ -73,6 +73,7 @@
 
 ### 언론
 
+- 2024.11.27 : [보안뉴스, 연말연시, 콘서트 티켓 양도한다며 입금 요구... 티켓 사기 기승!](https://www.boannews.com/media/view.asp?idx=134704)
 - 2024.11.26 : [SBS 모닝와이드 3부 <날>, 설마 우리집도? 사생활 훔쳐보는 IP카메라 (동영상)](https://programs.sbs.co.kr/culture/morningwide/vod/65007/22000550572)
 - 2024.11.23 : [채널A 뉴스, [사건현장 360]집안·강의실 웹캠도…해킹해 생중계 (동영상)](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000446536)
 - 2024.11.18 : [보안뉴스, 지코스모, 카시오 시스템 전산 장애로 일부 업무 중단](https://www.boannews.com/media/view.asp?idx=134409)
