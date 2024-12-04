@@ -73,6 +73,7 @@
 
 ### 언론
 
+- 2024.12.03 : [전자신문, 누리랩, 美·日에 AI 피싱 URL 검출 특허 출원…글로벌 서비스 시장 대응](https://www.etnews.com/20241203000388)
 - 2024.11.27 : [보안뉴스, 연말연시, 콘서트 티켓 양도한다며 입금 요구... 티켓 사기 기승!](https://www.boannews.com/media/view.asp?idx=134704)
 - 2024.11.26 : [SBS 모닝와이드 3부 <날>, 설마 우리집도? 사생활 훔쳐보는 IP카메라 (동영상)](https://programs.sbs.co.kr/culture/morningwide/vod/65007/22000550572)
 - 2024.11.23 : [채널A 뉴스, [사건현장 360]집안·강의실 웹캠도…해킹해 생중계 (동영상)](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000446536)
