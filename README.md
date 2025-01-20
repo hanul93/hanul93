@@ -73,6 +73,13 @@
 
 ### 언론
 
+- 2025.01.20 : [보안뉴스, “챗GPT4.0 무료”...신종 랜섬웨어 등장](https://www.boannews.com/media/view.asp?idx=135662)
+- 2025.01.18 : [보안뉴스, 성심당 빵, 공식 인스타 해킹 당해.. 사칭 DM 등 주의 당부](https://www.boannews.com/media/view.asp?idx=135653)
+- 2025.01.11 : [보안뉴스, 최근 발견된 삼성전자 ‘채용 피싱 사이트 vs. 실제 채용 사이트’ 구별법](https://www.boannews.com/media/view.asp?idx=135552)
+- 2025.01.11 : [보안뉴스, 결제 이체 알림? 무역·물류 기업 노린 피싱 메일 유포](https://www.boannews.com/media/view.asp?idx=135550)
+- 2025.01.06 : [데이터넷, ‘불법스팸신고로 통신사 이용 정지 조치’···클릭했다간 악성코드 감염](https://www.datanet.co.kr/news/articleView.html?idxno=198954)
+- 2024.12.30 : [전자신문, 누리랩, '오징어게임2' 공개 틈타 넷플릭스 모방 피싱 사이트 급증](https://www.etnews.com/20241230000115)
+- 2024.12.29 : [보안뉴스, 삼성전자 사칭한 신종 스미싱 유포...경품이벤트 설문조사 주의!](https://www.boannews.com/media/view.asp?idx=135369)
 - 2024.12.10 : [전자신문, 누리랩, 연말연시 피싱 의심 신고 급증…평소 대비 15% 높아 주의 요망](https://www.etnews.com/20241210000227)
 - 2024.12.03 : [전자신문, 누리랩, 美·日에 AI 피싱 URL 검출 특허 출원…글로벌 서비스 시장 대응](https://www.etnews.com/20241203000388)
 - 2024.11.27 : [보안뉴스, 연말연시, 콘서트 티켓 양도한다며 입금 요구... 티켓 사기 기승!](https://www.boannews.com/media/view.asp?idx=134704)
