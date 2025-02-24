@@ -73,6 +73,8 @@
 
 ### 언론
 
+- 2025.02.15 : [보안뉴스, CGV 채용 사칭 피싱 사이트 발견..개인정보 탈취 주의](https://www.boannews.com/media/view.asp?idx=135960)
+- 2025.02.12 : [보안뉴스, 누리랩, 딥페이크 탐지 기술 국내 특허 출원](https://www.boannews.com/media/view.asp?idx=135921)
 - 2025.02.06 : [보안뉴스, 누리랩, ‘AI 안티피싱’으로 日 상륙](https://www.boannews.com/media/view.asp?idx=135843)
 - 2025.02.04 : [데일리시큐, [2025 CEO 인터뷰] 최원혁 누리랩 대표 “AI 기반 피싱 차단 솔루션 ‘AskURL’로 피싱·스미싱 제로 시대 연다”](https://www.dailysecu.com/news/articleView.html?idxno=163369)
 - 2025.02.01 : [보안뉴스, 친러 해커조직, 24개 사이트 해킹...국내도 2곳 당해](https://www.boannews.com/media/view.asp?idx=135792)
