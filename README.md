@@ -73,6 +73,11 @@
 
 ### 언론
 
+- 2025.03.18 : [데일리시큐, 누리랩, 경찰청 사칭 차량 위반 고지서 피싱 급증 경고… "의심 문자, 절대 열람 금지"](https://www.dailysecu.com/news/articleView.html?idxno=164565)
+- 2025.03.10 : [전자신문, 누리랩, eGISEC 2025 참가…AI 기반 안티 피싱 솔루션 등 5개 제품 선봬](https://www.etnews.com/20250310000084)
+- 2025.03.05 : [데일리시큐, 누리랩 “카카오 고객센터 사칭 계정탈취 목적 피싱 사이트 급증” 경고](https://www.dailysecu.com/news/articleView.html?idxno=164202)
+- 2025.02.27 : [데이터넷, 누리랩 “북한 라자루스, 딥시크 사칭 피싱 공격 의심”](https://www.datanet.co.kr/news/articleView.html?idxno=200098)
+- 2025.02.16 : [보안뉴스, 멜론 티켓 사칭 피싱 주의!](https://www.boannews.com/media/view.asp?idx=136268)
 - 2025.02.15 : [보안뉴스, CGV 채용 사칭 피싱 사이트 발견..개인정보 탈취 주의](https://www.boannews.com/media/view.asp?idx=135960)
 - 2025.02.12 : [보안뉴스, 누리랩, 딥페이크 탐지 기술 국내 특허 출원](https://www.boannews.com/media/view.asp?idx=135921)
 - 2025.02.06 : [보안뉴스, 누리랩, ‘AI 안티피싱’으로 日 상륙](https://www.boannews.com/media/view.asp?idx=135843)
