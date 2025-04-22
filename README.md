@@ -71,6 +71,8 @@
 
 ### 언론
 
+- 2025.04.22 : [보안뉴스, 누리랩, 어댑티바 제휴...패치 관리 솔루션 국내 공급](https://www.boannews.com/media/view.asp?idx=136958)
+- 2025.04.14 : [데일리시큐, 누리랩, AI 기반 안티 피싱 솔루션 ‘AskURL’ 사용 후기 이벤트 진행](https://www.dailysecu.com/news/articleView.html?idxno=165305)
 - 2025.03.18 : [데일리시큐, 누리랩, 경찰청 사칭 차량 위반 고지서 피싱 급증 경고… "의심 문자, 절대 열람 금지"](https://www.dailysecu.com/news/articleView.html?idxno=164565)
 - 2025.03.10 : [전자신문, 누리랩, eGISEC 2025 참가…AI 기반 안티 피싱 솔루션 등 5개 제품 선봬](https://www.etnews.com/20250310000084)
 - 2025.03.05 : [데일리시큐, 누리랩 “카카오 고객센터 사칭 계정탈취 목적 피싱 사이트 급증” 경고](https://www.dailysecu.com/news/articleView.html?idxno=164202)
