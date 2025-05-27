@@ -24,6 +24,7 @@
 
 ### 이력
 
+- 2025.05 - 현    재 : 제6기 사이버보안전문단 (한국인터넷진흥원 임명)
 - 2022.04 - 현    재 : [경찰청 사이버안보 해킹조직 연구회 전문위원](https://www.facebook.com/hanul93/posts/pfbid02jDcof6XpeoEjUUaWnqG4e9wyr9PSbzskJP7SBX8foauVwyiTEUJz7v2TYyb7yroKl)
 - 2021.09 - 현    재 : 경희사이버대학교 IT·디자인융합학부 AI사이버보안전공 겸임교수
 - 2021.03 - 현    재 : [사이버작전사령부 자문위원](https://www.etnews.com/20210302000207)
@@ -71,6 +72,8 @@
 
 ### 언론
 
+- 2025.05.26 : [전자신문, 누리랩, AI 이용한 피싱 사이트 URL 검출 기술 미국 특허 등록 완료](https://www.etnews.com/20250526000195)
+- 2025.05.20 : [보안뉴스, 누리랩, 정부 지원 ‘딥페이크 탐지 시스템’ 개발](https://www.boannews.com/media/view.asp?idx=137309)
 - 2025.04.28 : [SBS 뉴스, SKT 해킹 사고, 혼란 초래한 수습책…집단 소송으로 번지나 (동영상)](https://news.sbs.co.kr/news/endPage.do?news_id=N1008080973)
 - 2025.04.28 : [KPI뉴스, 악성코드의 공격…SK텔레콤, 유심 교체만으로 해결될까](https://www.kpinews.kr/newsView/1065595086209864)
 - 2025.04.22 : [보안뉴스, 누리랩, 어댑티바 제휴...패치 관리 솔루션 국내 공급](https://www.boannews.com/media/view.asp?idx=136958)
