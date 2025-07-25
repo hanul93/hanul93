@@ -74,6 +74,9 @@
 
 ### 언론
 
+- 2025.07.24 : [굿잡벤처, 세상에 도움이 되는 기술을 만드는 기업 '누리랩' (동영상)](https://www.youtube.com/watch?v=h5ojURakh6M)
+- 2025.07.16 : [The Tech Edge, "SGI서울보증 랜섬웨어 감염, 금액 협상 받았다"](https://thetechedge.ai/hyeonj/)
+- 2025.06.27 : [The Tech Edge, SKT해킹 주장 해커, 티맵모빌리티 개발자 해킹정보 공개](https://thetechedge.ai/skthaeking-jujang-haekeo-timaebmobilriti-gaebalja-haekingjeongbo-gonggae/)
 - 2025.06.11 : [데일리시큐, 누리랩, 신종 피싱 대응 ‘피싱 주의보’ 서비스 개시…실시간 알람으로 피해 예방 지원](https://www.dailysecu.com/news/articleView.html?idxno=166832)
 - 2025.05.26 : [전자신문, 누리랩, AI 이용한 피싱 사이트 URL 검출 기술 미국 특허 등록 완료](https://www.etnews.com/20250526000195)
 - 2025.05.20 : [보안뉴스, 누리랩, 정부 지원 ‘딥페이크 탐지 시스템’ 개발](https://www.boannews.com/media/view.asp?idx=137309)
