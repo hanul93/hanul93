@@ -74,6 +74,10 @@
 
 ### 언론
 
+- 2025.11.06 : [데일리시큐, 누리랩, 딥페이크 탐지 기술 국내 특허 등록…딥페이크 통합 대응 시스템 개발](https://www.dailysecu.com/news/articleView.html?idxno=202112)
+- 2025.11.06 : [데일리시큐, 누리랩, 누리랩, 일본 피싱 대책 협의회 20주년 세미나서 AI 기반 안티 피싱 솔루션 소개](https://www.dailysecu.com/news/articleView.html?idxno=201901)
+- 2025.10.01 : [전자신문, 누리랩, '2025년 하이서울기업' 선정…AI 피싱 대응 솔루션 기술력 인정](https://www.etnews.com/20251001000120)
+- 2025.08.20 : [전자신문, 누리랩, AI 피싱 URL 검출 기술 일본 특허 등록…한·미·일 3국 특허 마침표](https://www.etnews.com/20250820000027)
 - 2025.07.24 : [굿잡벤처, 세상에 도움이 되는 기술을 만드는 기업 '누리랩' (동영상)](https://www.youtube.com/watch?v=h5ojURakh6M)
 - 2025.07.16 : [The Tech Edge, "SGI서울보증 랜섬웨어 감염, 금액 협상 받았다"](https://thetechedge.ai/hyeonj/)
 - 2025.06.27 : [The Tech Edge, SKT해킹 주장 해커, 티맵모빌리티 개발자 해킹정보 공개](https://thetechedge.ai/skthaeking-jujang-haekeo-timaebmobilriti-gaebalja-haekingjeongbo-gonggae/)
