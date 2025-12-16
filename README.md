@@ -74,8 +74,11 @@
 
 ### 언론
 
+- 2025.12.08 : [전자신문, 누리랩, '2026년 5대 사이버 보안 위협' 전망…'빠른 복구방어 전략' 진화 필요](https://www.etnews.com/20251208000068)
+- 2025.12.01 : [뉴스핌, [쿠팡 정보 유출] 5개월 방치된 '보안 참사'…정부 컨트롤타워 부재 '도마위'](https://www.newspim.com/news/view/20251201000696)
 - 2025.11.06 : [데일리시큐, 누리랩, 딥페이크 탐지 기술 국내 특허 등록…딥페이크 통합 대응 시스템 개발](https://www.dailysecu.com/news/articleView.html?idxno=202112)
 - 2025.11.06 : [데일리시큐, 누리랩, 누리랩, 일본 피싱 대책 협의회 20주년 세미나서 AI 기반 안티 피싱 솔루션 소개](https://www.dailysecu.com/news/articleView.html?idxno=201901)
+- 2025.10.04 : [뉴스핌TV, [이슈터미네이터] SKT·KT·롯데카드·예스24까지...잇단 초대형 해킹 사고에 '초비상'(동영상)](https://www.youtube.com/watch?v=QbfFBOt2kVg)
 - 2025.10.01 : [전자신문, 누리랩, '2025년 하이서울기업' 선정…AI 피싱 대응 솔루션 기술력 인정](https://www.etnews.com/20251001000120)
 - 2025.08.20 : [전자신문, 누리랩, AI 피싱 URL 검출 기술 일본 특허 등록…한·미·일 3국 특허 마침표](https://www.etnews.com/20250820000027)
 - 2025.07.24 : [굿잡벤처, 세상에 도움이 되는 기술을 만드는 기업 '누리랩' (동영상)](https://www.youtube.com/watch?v=h5ojURakh6M)
@@ -261,6 +264,7 @@
 - 2002.07.11 : [국가사이버안전센터, 기업정보 온라인유출 유형 및 사례 분석 (PDF)](http://boanchanggo.tistory.com/attachment/ok1.pdf) 
 
 ### 발표
+- 2025.12.02 : 2025 ACDC (AI Cyber Defense Contest), [KISA AI 보안 유망 지원 사업 성과공유회 발표(동영상)](https://youtu.be/CMMMP6wyAJA?t=2693)
 - 2024.11.15 : 국민대학교, 혁신의 무대, "이 시대의 진정한 NEW 아티스트로 성장하기"
 - 2024.11.05 : AIS 2024 인공지능 정보보호 컨퍼런스, [YaraHub: AI를 이용한 강력한 악성코드 탐지와 보안 분석 플랫폼 (동영상)](https://www.youtube.com/watch?v=LDHILDBw8Fk)
 - 2024.10.11 : 국민대학교, 집중! 소중한 내 아이디어... "노코드(NO-CODE)로 세상바꾸기"
